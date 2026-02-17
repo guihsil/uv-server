@@ -49,7 +49,7 @@ This project was developed using the following technologies:
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/guihsil/uv-server](https://github.com/guihsil/uv-server)
+   git clone https://github.com/guihsil/uv-server
 2. **Navigate to the project directory:**
     ```bash
     cd uv-server
