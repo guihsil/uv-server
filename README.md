@@ -6,7 +6,7 @@
 
 ## 📌 Table of Contents
 * [About the Project](#-about-the-project)
-* [Tech-Stack](#-tech-stack)
+* [Tech Stack](#-tech-stack)
 * [Project Structure](#-project-structure)
 * [Getting Started](#-getting-started)
     * [Prerequisites](#prerequisites)
@@ -57,4 +57,3 @@ This project was developed using the following technologies:
 ## 🛠️ Usage 
     docker compose --env-file "env/.env" up
 Open http://localhost:8000/
-
